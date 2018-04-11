@@ -1,0 +1,33 @@
+HTTrack3.48-22+htsjava launched on Wed, 21 Mar 2018 17:30:20 at https://bulkit.cssninja.io/landing.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bulkit.cssninja.io/landing.html -O1 "C:\My Web Sites\lib" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:31:25	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/features.html (from https://bulkit.cssninja.io/landing.html)
+17:31:25	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/contact.html (from https://bulkit.cssninja.io/landing.html)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/fontawesome-webfont.eot?v=4.6.3 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/fontawesome-webfont.eot? (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Warning: 	File not parsed, looks like binary: https://bulkit.cssninja.io/assets/fonts/fontawesome-webfont.woff2?v=4.6.3
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/fontawesome-webfont.woff?v=4.6.3 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/fontawesome-webfont.ttf?v=4.6.3 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/fontawesome-webfont.svg?v=4.6.3 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/simple-line-icons.eot?thkwh4 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/simple-line-icons.woff?thkwh4 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/simple-line-icons.svg?thkwh4 (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/iconsmind.eot?-rdmvgc (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/iconsmind.eot? (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/iconsmind.ttf?-rdmvgc (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/assets/fonts/iconsmind.svg?-rdmvgc (from https://bulkit.cssninja.io/assets/css/icons.min.css)
+17:32:56	Warning: 	File not parsed, looks like binary: https://bulkit.cssninja.io/assets/fonts/material-icons/MaterialIcons-Regular.woff2
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/category.html (from https://bulkit.cssninja.io/agency-blog.html)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/post.html (from https://bulkit.cssninja.io/agency-blog.html)
+17:32:56	Error: 	"Not Found" (404) at link https://bulkit.cssninja.io/_components-layout-slider.html (from https://bulkit.cssninja.io/startup-contact.html)
+17:36:08	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://image.ibb.co/gH13KQ/emoji_icon.png (from https://bulkit.cssninja.io/assets/css/dashboard.css)
+17:36:08	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://image.ibb.co/gH13KQ/emoji_icon.png (from https://bulkit.cssninja.io/assets/css/dashboard.css)
+17:36:09	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://image.ibb.co/gH13KQ/emoji_icon.png (from https://bulkit.cssninja.io/assets/css/dashboard.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 49 seconds : 513 links scanned, 492 files written (75704425 bytes overall) [67408658 bytes received at 193148 bytes/sec], 9690977 bytes transferred using HTTP compression in 166 files, ratio 12%, 22.1 requests per connection
+(18 errors, 4 warnings, 0 messages)
